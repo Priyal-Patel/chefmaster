@@ -1,5 +1,3 @@
-#MASTERCHEF
-MASTERCHEF:Recipe of pasta 
 Recipe of Pasta:
    1.Take a pan or container and add some water in it and on the gas
    2. After oning the gas add oil and add salt according to your taste and the how much pasta you have taken
